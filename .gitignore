@@ -1,0 +1,8 @@
+.idea
+*.iml
+rmnetdov3_account/config/config.inc.php
+rmnetdov3_autoselect/config/config.inc.php
+rmnetdov3_fetchmail/config/config.inc.php
+rmnetdov3_filter/config/config.inc.php
+rmnetdov3_pass/config/config.inc.php
+rmnetdov3_wblist/config/config.inc.php

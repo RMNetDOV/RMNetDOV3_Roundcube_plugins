@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Filtros de correo';
+$labels['filtername'] = 'Nome';
+$labels['filtersource'] = 'Regra';
+$labels['filtersubject'] = 'Asunto';
+$labels['filterfrom'] = 'De';
+$labels['filterto'] = 'Para';
+$labels['filtercontains'] = 'contén';
+$labels['filteris'] = 'igual a';
+$labels['filterbegins'] = 'comeza con';
+$labels['filterends'] = 'remata con';
+$labels['filterregex'] = 'coincide co regex';
+$labels['filterlocalpart'] = 'con parte local';
+$labels['filterdomain'] = 'con dominio';
+$labels['filteraction'] = 'Acción';
+$labels['filtermove'] = 'Mover a';
+$labels['filterdelete'] = 'Borrar';
+$labels['filterenabled'] = 'Activo';
+$labels['filterdisabled'] = 'Desactivado';
+$labels['filteradd'] = 'Engadir';
+$labels['filternorules'] = 'Non se definiron filtros de correo';
+$labels['filter_entries'] = 'Filtros';
+$messages['filterdelconfirm'] = 'Seguro que quere borrar este filtro?';
+$messages['filterlimitreached'] = 'Non é posible engadir máis filtros';
+$messages['textempty'] = 'É obrigatorio encher tódolos campos';

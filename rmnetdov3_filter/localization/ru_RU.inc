@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Почтовые фильтры';
+$labels['filtername'] = 'Название';
+$labels['filtersource'] = 'Источник';
+$labels['filtersubject'] = 'Тема';
+$labels['filterfrom'] = 'От кого';
+$labels['filterto'] = 'Кому';
+$labels['filtercontains'] = 'содержит';
+$labels['filteris'] = 'соответствует';
+$labels['filterbegins'] = 'начинается на';
+$labels['filterends'] = 'заканчивается на';
+$labels['filterregex'] = 'соответствует регексу';
+$labels['filterlocalpart'] = 'с локальной частью';
+$labels['filterdomain'] = 'с доменом';
+$labels['filteraction'] = 'Действие';
+$labels['filtermove'] = 'переместить в';
+$labels['filterdelete'] = 'удалить';
+$labels['filterenabled'] = 'Включено';
+$labels['filterdisabled'] = 'Отключено';
+$labels['filteradd'] = 'Добавить';
+$labels['filternorules'] = 'Правил нет';
+$labels['filter_entries'] = 'Почтовые фильтры';
+$messages['filterdelconfirm'] = 'Вы уверены, чтобы хотите удалить это правило?';
+$messages['filterlimitreached'] = 'Достигнуто ограничение';
+$messages['textempty'] = 'Одно или несколько обязательных полей не заполнены';

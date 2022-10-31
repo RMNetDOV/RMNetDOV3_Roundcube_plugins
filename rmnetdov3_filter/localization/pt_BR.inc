@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Filtro de Correio';
+$labels['filtername'] = 'Nome';
+$labels['filtersource'] = 'Origem';
+$labels['filtersubject'] = 'Assunto';
+$labels['filterfrom'] = 'De';
+$labels['filterto'] = 'Para';
+$labels['filtercontains'] = 'contém';
+$labels['filteris'] = 'é';
+$labels['filterbegins'] = 'começa com';
+$labels['filterends'] = 'termina com';
+$labels['filterregex'] = 'corresponde ao regex';
+$labels['filterlocalpart'] = 'com parte local';
+$labels['filterdomain'] = 'com domínio';
+$labels['filteraction'] = 'Ação';
+$labels['filtermove'] = 'Mover para a';
+$labels['filterdelete'] = 'Deletar';
+$labels['filterenabled'] = 'Ativa';
+$labels['filterdisabled'] = 'Desativada';
+$labels['filteradd'] = 'Adcionar';
+$labels['filternorules'] = 'Sem regras existentes';
+$labels['filter_entries'] = 'Regras';
+$messages['filterdelconfirm'] = 'Você está certo de remover esta regra?';
+$messages['filterlimitreached'] = 'Limite atingido';
+$messages['textempty'] = 'Um ou mais campos estão em branco';

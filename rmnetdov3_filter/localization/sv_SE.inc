@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Mailfilter';
+$labels['filtername'] = 'Namn';
+$labels['filtersource'] = 'Regel';
+$labels['filtersubject'] = 'Ämnet';
+$labels['filterfrom'] = 'Från';
+$labels['filterto'] = 'Till';
+$labels['filtercontains'] = 'innehåller';
+$labels['filteris'] = 'är';
+$labels['filterbegins'] = 'börjar med';
+$labels['filterends'] = 'slutar med';
+$labels['filterregex'] = 'matchar regex';
+$labels['filterlocalpart'] = 'med lokal del';
+$labels['filterdomain'] = 'med domän';
+$labels['filteraction'] = 'Mål';
+$labels['filtermove'] = 'Flytta till';
+$labels['filterdelete'] = 'Radera';
+$labels['filterenabled'] = 'Aktiverad';
+$labels['filterdisabled'] = 'Deaktiverad';
+$labels['filteradd'] = 'Lägg till';
+$labels['filternorules'] = 'Inga regler funna';
+$labels['filter_entries'] = 'Tillgängliga regler';
+$messages['filterdelconfirm'] = 'Vill du verkligen ta bort denna regel?';
+$messages['filterlimitreached'] = 'Begränsning nådd';
+$messages['textempty'] = 'Ett eller flera fält är tomma';

@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Filter rules';
+$labels['filtername'] = 'Name';
+$labels['filtersource'] = 'Source';
+$labels['filtersubject'] = 'Subject';
+$labels['filterfrom'] = 'From';
+$labels['filterto'] = 'To';
+$labels['filtercontains'] = 'contains';
+$labels['filteris'] = 'is';
+$labels['filterbegins'] = 'begins with';
+$labels['filterends'] = 'ends with';
+$labels['filterregex'] = 'matches regex';
+$labels['filterlocalpart'] = 'with local part';
+$labels['filterdomain'] = 'with domain';
+$labels['filteraction'] = 'Action';
+$labels['filtermove'] = 'Move to';
+$labels['filterdelete'] = 'Delete';
+$labels['filterenabled'] = 'Enabled';
+$labels['filterdisabled'] = 'Disabled';
+$labels['filteradd'] = 'Add';
+$labels['filternorules'] = 'No rules are existing';
+$labels['filter_entries'] = 'Rules';
+$messages['filterdelconfirm'] = 'Are you sure you want to delete this rule?';
+$messages['filterlimitreached'] = 'Limit reached';
+$messages['textempty'] = 'One or more fields are empty';

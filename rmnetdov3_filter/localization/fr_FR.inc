@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Filtrage des mails';
+$labels['filtername'] = 'Nom';
+$labels['filtersource'] = 'Source';
+$labels['filtersubject'] = 'Sujet';
+$labels['filterfrom'] = 'De';
+$labels['filterto'] = 'A';
+$labels['filtercontains'] = 'contient';
+$labels['filteris'] = 'est';
+$labels['filterbegins'] = 'commence par';
+$labels['filterends'] = 'se termine par';
+$labels['filterregex'] = 'correspond à l\'expression régulière';
+$labels['filterlocalpart'] = 'avec partie locale';
+$labels['filterdomain'] = 'avec domaine';
+$labels['filteraction'] = 'Action';
+$labels['filtermove'] = 'Déplacer vers';
+$labels['filterdelete'] = 'Supprimer';
+$labels['filterenabled'] = 'Activé';
+$labels['filterdisabled'] = 'Désactivé';
+$labels['filteradd'] = 'Ajouter';
+$labels['filternorules'] = 'Aucune règle existante';
+$labels['filter_entries'] = 'Règles';
+$messages['filterdelconfirm'] = 'Êtes-vous sûr de vouloir supprimer cette règle?';
+$messages['filterlimitreached'] = 'Limite atteinte';
+$messages['textempty'] = 'Un ou plusieurs champs sont vides';

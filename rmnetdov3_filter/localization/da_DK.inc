@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Filter regler';
+$labels['filtername'] = 'Navn';
+$labels['filtersource'] = 'Kilde';
+$labels['filtersubject'] = 'Emne';
+$labels['filterfrom'] = 'Fra';
+$labels['filterto'] = 'Til';
+$labels['filtercontains'] = 'indeholder';
+$labels['filteris'] = 'er';
+$labels['filterbegins'] = 'starter med';
+$labels['filterends'] = 'ender med';
+$labels['filterregex'] = 'matcher regex';
+$labels['filterlocalpart'] = 'med lokal del';
+$labels['filterdomain'] = 'med domæne';
+$labels['filteraction'] = 'Handling';
+$labels['filtermove'] = 'Flytte til';
+$labels['filterdelete'] = 'Slet';
+$labels['filterenabled'] = 'Aktiveret';
+$labels['filterdisabled'] = 'Deaktiveret';
+$labels['filteradd'] = 'Tilføj';
+$labels['filternorules'] = 'Der er ingen eksisterende regler';
+$labels['filter_entries'] = 'Regler';
+$messages['filterdelconfirm'] = 'Vil du slette denne regel?';
+$messages['filterlimitreached'] = 'Begrænsning nået';
+$messages['textempty'] = 'Et eller flere felter er tomme';

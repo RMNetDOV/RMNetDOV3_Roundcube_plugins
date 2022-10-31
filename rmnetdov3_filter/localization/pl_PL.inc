@@ -1,0 +1,25 @@
+<?php
+$labels['acc_filter'] = 'Filtr poczty';
+$labels['filtername'] = 'Nazwa';
+$labels['filtersource'] = 'Zródlo';
+$labels['filtersubject'] = 'Temat';
+$labels['filterfrom'] = 'Od';
+$labels['filterto'] = 'Do';
+$labels['filtercontains'] = 'zawiera';
+$labels['filteris'] = 'jest';
+$labels['filterbegins'] = 'rozpoczyna się od';
+$labels['filterends'] = 'kończy się na';
+$labels['filterregex'] = 'pasuje do regex';
+$labels['filterlocalpart'] = 'z częścią lokalną';
+$labels['filterdomain'] = 'z domeną';
+$labels['filteraction'] = 'Akcja';
+$labels['filtermove'] = 'Przenieś do';
+$labels['filterdelete'] = 'Usuń';
+$labels['filterenabled'] = 'Aktywny';
+$labels['filterdisabled'] = 'Nieaktywny';
+$labels['filteradd'] = 'Dodaj';
+$labels['filternorules'] = 'Brak reguł';
+$labels['filter_entries'] = 'Reguły';
+$messages['filterdelconfirm'] = 'Jesteś pewien, że chcesz usunąć tą regułę?';
+$messages['filterlimitreached'] = 'Osiagnięto limit';
+$messages['textempty'] = 'Jedno lub wiecej pól jest puste';

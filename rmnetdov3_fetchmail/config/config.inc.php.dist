@@ -1,0 +1,2 @@
+<?php
+$config['fetchmail_limit'] = 3;
