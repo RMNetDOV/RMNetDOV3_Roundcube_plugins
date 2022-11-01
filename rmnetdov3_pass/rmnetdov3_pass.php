@@ -116,7 +116,7 @@ class rmnetdov3_pass extends rcube_plugin
                         $params = $mail_user[0];
 
                         $rmnetdov_version = $soap->server_get_app_version($session_id);
-                        if (version_compare($rmnetdov_version['ispc_app_version'], '3.1dev', '<')) {
+                        if (version_compare($rmnetdov_version['rmnetdov_app_version'], '3.1dev', '<')) {
                             $startdate = [
                                 'year'   => substr($params['autoresponder_start_date'], 0, 4),
                                 'month'  => substr($params['autoresponder_start_date'], 5, 2),

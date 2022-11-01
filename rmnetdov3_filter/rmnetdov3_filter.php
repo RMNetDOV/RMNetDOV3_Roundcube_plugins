@@ -250,7 +250,7 @@ class rmnetdov3_filter extends rcube_plugin
             'filterends' => 'ends',
         ];
 
-        if (version_compare($rmnetdov_version['ispc_app_version'] ?? '', '3.2', '>=')) {
+        if (version_compare($rmnetdov_version['rmnetdov_app_version'] ?? '', '3.2', '>=')) {
             $filter_op_extended = [
                 'filterregex' => 'regex',
                 'filterlocalpart' => 'localpart',

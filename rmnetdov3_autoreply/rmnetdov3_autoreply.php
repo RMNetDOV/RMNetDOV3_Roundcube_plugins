@@ -86,7 +86,7 @@ class rmnetdov3_autoreply extends rcube_plugin
             $uid = $this->soap->client_get_id($session_id, $mail_user[0]['sys_userid']);
 
             $rmnetdov_version = $this->soap->server_get_app_version($session_id);
-            if (version_compare($rmnetdov_version['ispc_app_version'], '3.1dev', '<')) {
+            if (version_compare($rmnetdov_version['rmnetdov_app_version'], '3.1dev', '<')) {
                 $startdate = [
                     'year'   => date('Y', $startdate),
                     'month'  => date('m', $startdate),
